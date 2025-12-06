@@ -8,4 +8,4 @@ class Estudiante(Persona):  # (defino la clase Estudiante y heredo de Persona)
 
 e = Estudiante()  # (creo un objeto e de la clase Estudiante)
 e.hablar()  # (ejecuto el mEtodo hablar heredado de Persona)
-e.estudiar()  # (ejecuto el metodo estudiar propio de Estudiante)
+e.estudiar()  # (ejecuto el metodo estudiar propio de Estudiante)  #fin

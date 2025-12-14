@@ -4,3 +4,5 @@ class Vehiculo:  # (defino la clase Vehiculo)
 
 auto = Vehiculo()  # (creo un objeto auto de la clase Vehiculo)
 auto.encender()  # (ejecuto el metodo encender del objeto auto)
+
+#FIN

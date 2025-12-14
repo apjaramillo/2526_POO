@@ -11,3 +11,4 @@ class Cuenta:  # (defino la clase Cuenta)
 c = Cuenta()  # (creo un objeto c de la clase Cuenta)
 c.depositar(100)  # (deposito 100 en la cuenta)
 c.ver_saldo()  # (muestro el saldo, imprime 100)
+#FIN

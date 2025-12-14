@@ -8,3 +8,4 @@ class Circulo(Figura):  # (defino la clase Circulo y heredo de Figura)
 
 Figura().dibujar()  # (creo un objeto Figura y dibujo figura)
 Circulo().dibujar()  # (creo un objeto Circulo y dibujo círculo)
+#FIN

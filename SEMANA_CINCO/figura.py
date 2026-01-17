@@ -8,7 +8,7 @@ class FiguraGeometrica:
         """
         Constructor de la clase FiguraGeometrica.
 
-        Args:
+
             nombre: El nombre de la figura.
         """
         self.nombre = nombre
@@ -30,7 +30,7 @@ class Cuadrado(FiguraGeometrica):
         """
         Constructor de la clase Cuadrado.
 
-        Args:
+
             lado: La longitud del lado del cuadrado.
         """
         super().__init__("Cuadrado")
@@ -49,7 +49,7 @@ class Rectangulo(FiguraGeometrica):
         """
         Constructor de la clase Rectangulo.
 
-        Args:
+
             base: La longitud de la base del rectángulo.
             altura: La longitud de la altura del rectángulo.
         """

@@ -12,7 +12,7 @@ class Persona:
         print(f"Persona destruida: {self.nombre}")
 
 # Creamos una instancia de la clase Persona
-persona1 = Persona("Jose", 24)
+persona1 = Persona("Ana Paula" , 29)
 
 # Llamos al metodo presentar y presentamos  a la persona
 persona1.presentar()
